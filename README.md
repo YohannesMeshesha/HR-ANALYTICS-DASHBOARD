@@ -2,7 +2,7 @@
 
 ![TableauDash](https://user-images.githubusercontent.com/131899006/234924564-2361addb-196c-4c9c-a8dc-07efc4ac25fc.png)
 
-As a Tableau developer, I'm excited to share with you the dashboard I've created to help you answer key questions about your workforce. In this Dashboard, I'll walk you through the different components of the dashboard and explain how it can help you improve retention and job satisfaction within your organization.
+As a Data Analyst, I'm excited to share with you the dashboard I've created to help you answer key questions about your workforce. In this Dashboard, I'll walk you through the different components of the dashboard and explain how it can help you improve retention and job satisfaction within your organization.
 
 First, we have the Employee Count card, which displays the total number of employees currently working in your organization. This provides a high-level overview of your workforce.
 
